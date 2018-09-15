@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(226, 223, 43);
+    color: #555555;
+font-family: Arial, Helvetica, sans-serif;
+}
+.box-1 {
+
+    line-height:1.6em;
+    margin:0;
+}
+
+a{
+text-decoration: none;
+    color: #000;
+
+}
+a: :hover{
+    color:red;
+
+}
+.box-1{
+    
+}
+a:active{
+    color:green;
+}
+
+a:visited{
+
+
+body[
+    font-family: 'Montserrat', san-seriff;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 2.0em;
+]
+
+.container {
+    width: 80%;
+    margin: auto;
+    border: 2px rgb(161, 161, 333) solid;
+    padding: 10px;
+    background-color: beige;
+
+}
+
+.categories h2{
+    text-align: center;
+}
+
+.categories ul{
+    padding:0%
+    padding-left-20px
+    list-style-type: square square;
+    list-style:none;
+}
+
+.categories li{
+    padding-bottom: 8px;
+    border-bottom: :dotted 1px #333;
+    list-style-image: url('../images/check.png');
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
