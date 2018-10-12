@@ -80,6 +80,9 @@
 							<h1 class="white-text">OBIE 77 </h1>
 							<p class="lead white-text">Libris vivendo eloquentiam ex ius, nec id splendide abhorreant, eu pro alii error homero.</p>
 							<a class="main-button icon-button" href="#">Get Started!</a>
+                            <span class="course-category">Web Design</span>
+									<span class="course-price course-premium">Premium</span>
+								</div>
 						</div>
 					</div>
 				</div>
