@@ -102,6 +102,15 @@
 		<!-- /About -->
 
 		<!-- Courses -->
+        <div class="col-md-3 col-sm-6 col-xs-6">
+							<div class="course">
+								<a href="#" class="course-img">
+									<img src="./img/course02.jpg" alt="">
+									<i class="course-link-icon fa fa-link"></i>
+								</a>
+								<a class="course-title" href="#">Introduction to CSS </a>
+								<div class="course-details">
+                                </div> 
 		
 		<!-- /Courses -->
 
